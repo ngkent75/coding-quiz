@@ -1,0 +1,37 @@
+{
+	"q1": {
+		"question": "Question 1: String values must be enclosed within ______ when being assigned to variables.",
+		"a1": "Brackets",
+		"a2": "Parentheses",
+		"a3": "Quotations",
+		"a4": "Braces"
+	},
+	"q2": {
+		"question": "Question 2: A very useful tool used during development and debugging for printing content to the debugger is:",
+		"a1": "console.log",
+		"a2": "print",
+		"a3": "console.WriteLine",
+		"a4": "println"
+	},
+	"q3": {
+		"question": "Question 3: Arrays in JavaScript can be used to store ______.",
+		"a1": "Strings",
+		"a2": "Numbers",
+		"a3": "Other arrays",
+		"a4": "All of the answers"
+	},
+	"q4": {
+		"question": "Question 4: Commonly used data types DO NOT include:",
+		"a1": "Functions",
+		"a2": "Boolean",
+		"a3": "Numbers",
+		"a4": "Strings"
+	},
+	"q5": {
+		"question": "Question 5: The condition in an if/else statement is enclosed within ______.",
+		"a1": "Brackets",
+		"a2": "Parentheses",
+		"a3": "Quotations",
+		"a4": "Braces"
+	}
+}
